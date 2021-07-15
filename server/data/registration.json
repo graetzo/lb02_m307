@@ -1,0 +1,82 @@
+[
+  {
+    "id": "491bed91-999e-4621-8fd0-8ff9f19e0e8c",
+    "firstname": "Hans",
+    "lastname": "Mustermann",
+    "username": "hans",
+    "email": "hmuster@gmail.com",
+    "mobile": "+41791236633"
+  },
+  {
+    "id": "e7a74de3-3f2c-44e0-869b-9c3065d7ef08",
+    "firstname": "Nico",
+    "lastname": "Mustermann",
+    "username": "hans",
+    "email": "hmuster@gmail.com",
+    "mobile": "+41791236633"
+  },
+  {
+    "id": "53900bb8-5573-4070-9842-5743cbc7320b",
+    "firstname": "Nico",
+    "lastname": "Mustermann",
+    "username": "nico",
+    "email": "hmuster@gmail.com",
+    "mobile": "+41791236633"
+  },
+  {
+    "id": "9548ff1c-709a-458d-bd3a-b61e6100f221",
+    "firstname": "Nico",
+    "lastname": "Mustermann",
+    "username": "nico",
+    "email": "hmuster@gmail.com",
+    "mobile": "+41791236633"
+  },
+  {
+    "id": "04731395-8a99-446b-96d1-04a8fdd23484",
+    "firstname": "TRes",
+    "lastname": "Mustermann",
+    "username": "nico",
+    "email": "hmuster@gmail.com",
+    "mobile": "+41791236633"
+  },
+  {
+    "id": "bddd0035-b3ae-455b-aea0-f617ad6779e4",
+    "firstname": "TRes",
+    "lastname": "Mustermann",
+    "username": "nico",
+    "email": "hmuster@gmail.com",
+    "mobile": "+41791236633"
+  },
+  {
+    "id": "a0328217-4f02-4c37-8c37-5b12cb210a5f",
+    "firstname": "TRes",
+    "lastname": "Mustermann",
+    "username": "nico",
+    "email": "hmuster@gmail.com",
+    "mobile": "+4179167236633"
+  },
+  {
+    "id": "cf328edb-f3ee-4b62-92cd-48fb99e7250a",
+    "firstname": "TRes",
+    "lastname": "Mustermann",
+    "username": "nico",
+    "email": "hmuster@gmail.com",
+    "mobile": "+4179167236633"
+  },
+  {
+    "id": "5708d431-29e1-471f-bf6b-73aecb2c7d41",
+    "firstname": "hans",
+    "lastname": "mustermann",
+    "username": "hans",
+    "email": "hansmuster@gmail.com",
+    "mobile": "+41791234567"
+  },
+  {
+    "id": "c263b9fc-07d5-465e-ba82-01bd5b1893ca",
+    "firstname": "hans",
+    "lastname": "mustermann",
+    "username": "hans",
+    "email": "hansmuster@gmail.com",
+    "mobile": "+41791234567"
+  }
+]
